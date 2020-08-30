@@ -1,0 +1,25 @@
+.data-view {
+    flex: 1;
+    position: relative;
+}
+
+.filters {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+
+.filter-row {
+    margin-bottom: 10px;
+}
+
+.filter-control {
+    float: left;
+}
+
+.filter-label {
+    text-align: left;
+    line-height: 37px;
+}
+
+

@@ -1,0 +1,12 @@
+.search-bar {
+    width:100%;
+}
+
+.player-option-image {
+    height: 32px;
+}
+
+.player-option-label {
+    font-size: 15px;
+    margin-left: 15px;
+}
